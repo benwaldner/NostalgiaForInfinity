@@ -1,3 +1,8 @@
+# Updated Version
+
+Freqtrade Bot with NostalgiaForInfinity Strategy https://github.com/benwaldner/crypto-bot
+
+
 # NostalgiaForInfinity
 Trading strategy for the [Freqtrade](https://www.freqtrade.io) crypto bot. For backtesting results, check out the comments in the individual [commit](https://github.com/iterativv/NostalgiaForInfinity/commits/main) page.
 
